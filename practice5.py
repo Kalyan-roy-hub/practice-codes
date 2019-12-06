@@ -19,3 +19,7 @@ if t == t[::-1]:
     print(True)
 else:
     print(False)
+
+
+for i in range(10):
+    print('I am the king')
