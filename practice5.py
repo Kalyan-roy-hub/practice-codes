@@ -21,4 +21,9 @@ else:
     print(False)
 
 
+
 print('hello-world')
+
+for i in range(10):
+    print('I am the king')
+
