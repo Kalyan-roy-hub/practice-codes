@@ -21,5 +21,11 @@ else:
     print(False)
 
 
+
 for i in range(10):
     print('I am the king')
+
+    
+    
+print("I love cricket")
+
