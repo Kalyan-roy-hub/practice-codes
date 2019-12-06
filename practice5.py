@@ -19,3 +19,6 @@ if t == t[::-1]:
     print(True)
 else:
     print(False)
+    
+    
+print("I love cricket")
